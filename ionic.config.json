@@ -1,0 +1,7 @@
+{
+  "name": "ios-15-crash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

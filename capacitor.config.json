@@ -1,0 +1,6 @@
+{
+  "appId": "com.test.crash",
+  "appName": "ios-15-crash",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
